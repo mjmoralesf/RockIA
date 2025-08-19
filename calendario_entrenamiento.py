@@ -16,21 +16,21 @@ COLORS = {
 default_training_plan = {
     "Lunes": {"focus": "Entrenamiento técnico de Muay Thai.", "activity": "Clase de Muay Thai", "exercises": []},
     "Martes": {"focus": "Fuerza y Potencia (Striking y Brazos).", "activity": None, "exercises": [
-        {"name": "Sentadilla Goblet con Mancuerna", "series": 4, "description": "Fundamental para la potencia de tus patadas..."},
-        {"name": "Remo Renegado (Renegade Row)", "series": 3, "description": "Fortalece la espalda para jalar en el clinch..."},
-        {"name": "Flexiones a Máxima Velocidad", "series": 4, "description": "Desarrolla la potencia de empuje para tus puños..."},
-        {"name": "Curl de Bíceps con Mancuerna", "series": 3, "description": "Fortalece los bíceps para la fuerza de tracción..."},
-        {"name": "Extensión de Tríceps sobre la Cabeza", "series": 3, "description": "Añade potencia a la extensión final de tus puñetazos..."}
+        {"name": "Sentadilla Goblet con Mancuerna", "series": 4, "description": "Fundamental para la potencia de tus patadas. Sujeta una mancuerna en vertical contra tu pecho. Baja profundo manteniendo la espalda recta y sube de forma explosiva."},
+        {"name": "Remo Renegado (Renegade Row)", "series": 3, "description": "Fortalece la espalda para jalar en el clinch y el core para la estabilidad. En posición de plancha con mancuernas, rema con un brazo sin girar las caderas."},
+        {"name": "Flexiones a Máxima Velocidad", "series": 4, "description": "Mejora la explosividad de tus golpes. Realiza flexiones con un ritmo rápido, enfocándote en empujar el suelo con fuerza."},
+        {"name": "Curl de Bíceps con Mancuerna", "series": 3, "description": "Fortalece los bíceps para golpes más potentes. Con una mancuerna en cada mano, realiza el curl manteniendo los codos pegados al cuerpo."},
+        {"name": "Extensión de Tríceps sobre la Cabeza", "series": 3, "description": "Fortalece los tríceps para golpes más potentes. Con una mancuerna, extiende los brazos sobre la cabeza y baja detrás de la nuca."}
     ]},
     "Miércoles": {"focus": "Ciclismo de Resistencia.", "activity": "Ruta Plana Mapocho 42k", "exercises": []},
     "Jueves": {"focus": "Resistencia Muscular y Fuerza de Clinch.", "activity": None, "exercises": [
-        {"name": "Zancadas con Pausa", "series": 3, "description": "Construye resistencia en las piernas..."},
-        {"name": "Press de Hombro de Rodillas", "series": 3, "description": "Para la resistencia de los hombros al golpear..."},
-        {"name": "Remo con Banda", "series": 3, "description": "Simula el agarre y jale constante del clinch..."},
-        {"name": "Fortalecimiento de Cuello (Isométricos)", "series": 2, "description": "Fortalece el cuello de forma segura..."},
-        {"name": "Elevaciones de Mentón", "series": 3, "description": "Fortalece la parte frontal del cuello..."},
-        {"name": "Plancha (Plank)", "series": 3, "description": "Un core fuerte es la base de todo..."},
-        {"name": "Giro Ruso (Russian Twist)", "series": 3, "description": "Fortalece los oblicuos para la rotación..."}
+        {"name": "Zancadas con Pausa", "series": 3, "description": "Construye resistencia en las piernas. Sostén las mancuernas, haz una zancada y aguanta 2 segundos en la posición más baja antes de subir. Alterna piernas."},
+        {"name": "Press de Hombro de Rodillas", "series": 3, "description": "Para la resistencia de los hombros al golpear. Arrodillado para proteger la espalda, empuja las mancuernas hacia arriba de forma controlada."},
+        {"name": "Remo con Banda", "series": 3, "description": "Simula el agarre y jale constante del clinch. Siéntate, pasa la banda por tus pies y rema llevando los codos hacia atrás, apretando la espalda."},
+        {"name": "Fortalecimiento de Cuello (Isométricos)", "series": 2, "description": "Fortalece el cuello de forma segura. Coloca tu palma contra tu frente y empuja hacia adelante, manteniendo la tensión. Repite hacia los lados y atrás."},
+        {"name": "Elevaciones de Mentón", "series": 3, "description": "Fortalece la parte frontal del cuello. Reostado en el suelo, levanta el mentón hacia el techo manteniendo la espalda recta."},
+        {"name": "Plancha (Plank)", "series": 3, "description": "Un core fuerte es la base de todo. Mantén una línea recta desde la cabeza a los talones, apretando abdomen y glúteos."},
+        {"name": "Giro Ruso (Russian Twist)", "series": 3, "description": "Fortalece los oblicuos para la rotación en golpes. Sentado con las piernas elevadas, gira el torso de lado a lado tocando el suelo con las manos."}
     ]},
     "Viernes": {"focus": "Entrenamiento técnico de Muay Thai.", "activity": "Clase de Muay Thai", "exercises": []},
     "Sábado": {"focus": "Ciclismo de Intensidad.", "activity": "Ascenso al Cerro San Cristóbal", "exercises": []},
